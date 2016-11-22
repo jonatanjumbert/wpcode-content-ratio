@@ -1,0 +1,5 @@
+.red { color: red }
+.green { color: green;}
+.bolder { font-weight: bold; }
+#tscDetails { overflow-y: auto;}
+.foto-author { float:left; margin: 0; margin-right:10px; padding: 0; border-radius: 10px;}

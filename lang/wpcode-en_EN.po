@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCode Content Ratio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-04 11:32+0100\n"
+"PO-Revision-Date: 2014-05-04 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jonatan Jumbert <jonatan.jumbert@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_EN\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2;plural=n!=1;\n"
+"X-Poedit-SearchPath-0: D:\\dropbox\\wordpressplugins\\wp-content\\plugins\\wpcode-content-ratio\n"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:94
+msgid "Settings"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:95
+msgid "Help"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:110
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:147
+msgid "WPCode Content Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:110
+msgid "Content Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:150
+msgid "Purpose"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:153
+msgid "Setup"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:156
+msgid "Categories ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:159
+msgid "Tags ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:162
+msgid "Authors ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:210
+msgid "WPSearch Keyword Tool"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:215
+msgid "Plugin configuration"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:218
+msgid "Thank you very much! New features will be available soon..."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:219
+msgid "If you wanna make some request... this would be taken into account first."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:220
+msgid "Return to plugin configuration"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:236
+msgid "What is the Code to Text Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:236
+msgid "Why is it important?"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:244
+msgid "The Code to Text Ratio represents the percentage of actual text in a web page. This plugin extracts the text of all your pages and posts from HTML code and calculates the content ratio based on this information."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:244
+msgid "The code to text ratio of a page is used by search engines and spiders to calculate the relevancy of a web page. A higher code to text ratio gives you a better chance of getting a good page ranking for your page."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:245
+msgid "Not all search engines are using the code to text ratio in their index algorithm, but most of them do. So having a higher code to text ratio than your competitors gives you a good start for on-site optimization. "
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:252
+msgid "Your home page code to text ratio is: "
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:261
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:443
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:508
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:573
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:639
+msgid "Check ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:263
+msgid "% Ratios and meanings"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:265
+msgid "Consider adding more content or revamping your code."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:266
+msgid "Content is moderate, but always room to improve."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:267
+msgid "Generally good, but don't over do it."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:268
+msgid "If you've got higher than about 70&#37; or so then you've got a lot of text and not a lot of code, which might sound like a good thing, but could represent spam too."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:270
+msgid "Ways to lower the amount of code on a web page"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:272
+msgid "Use CSS layouts instead of table-based layouts."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:273
+msgid "Put CSS and Javascript into external files."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:274
+msgid "Take out tags that have no purpose."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:275
+msgid "Use valid code. After all, a page scoring 25% which works everywhere is usually better than one which scores 50% but fails in most browsers."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:276
+msgid "Write more text on your posts."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:289
+msgid "<strong>WPCode Content Ratio</strong>: SETUP"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:304
+msgid "After listing posts/pages/custom posts calculate automatically code to content ratio."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:307
+msgid "After save a post/page/custom post calculate automatically code to content ratio."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:310
+msgid "Check to calculate code to content ratio for categories."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:313
+msgid "Check to calculate code to content ratio for tags."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:316
+msgid "Check to calculate code to content ratio for author's page."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:322
+msgid "and taxonomies"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:323
+#, php-format
+msgid "Select to calculate code to content ratio for this post types %s: "
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:351
+msgid "Save options"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:359
+msgid "Calculate Code to Content Ratio for: "
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:360
+msgid "This action may take several minutes depending your server speed and the number of entries you have. Be patient while the operation is in progress."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:376
+msgid "Clean Code to Content Ratio for: "
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:377
+msgid "This action will delete all ratios for post types"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:397
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:462
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:527
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:592
+msgid "You are viewing this page because you already checked on plugin setup."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:404
+msgid "This action may take several minutes depending your server speed and the number of authors your site have. Be patient while the operation is in progress."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:413
+msgid "Calculate all user's page ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:416
+msgid "Clean all user's page ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:421
+msgid "User Name"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:422
+msgid "User URL"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:423
+msgid "User Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:424
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:489
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:554
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:620
+msgid "Check Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:434
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:439
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:499
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:504
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:564
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:569
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:630
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:635
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1139
+msgid "Empty"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:443
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:508
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:573
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:639
+msgid "Check"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:449
+msgid "Your site don't have users."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:469
+msgid "This action may take several minutes depending your server speed and the number of tags your site have. Be patient while the operation is in progress."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:478
+msgid "Calculate all tags ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:481
+msgid "Clean all tags ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:486
+msgid "Tag Name"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:487
+msgid "Tag URL"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:488
+msgid "Tag Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:514
+msgid "You don't have tags"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:534
+msgid "This action may take several minutes depending your server speed and the number of categories your site have. Be patient while the operation is in progress."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:543
+msgid "Calculate all categories ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:546
+msgid "Clean all categories ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:551
+msgid "Category Name"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:552
+msgid "Category URL"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:553
+msgid "Category Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:579
+msgid "You don't have categories"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:599
+msgid "This action may take several minutes depending your server speed and the number of terms your site have. Be patient while the operation is in progress."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:609
+#, php-format
+msgid "Calculate all %s ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:612
+#, php-format
+msgid "Clean all %s ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:617
+msgid "Term Name"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:618
+msgid "Term URL"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:619
+msgid "Term Ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:645
+#, php-format
+msgid "Your site don't have terms under <strong>%s</strong> taxonomy."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:662
+msgid "About the author"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:667
+msgid "My name is <strong>Jonatan Jumbert</strong>, I am SEO professional and a web developer who enjoys to take on new projects. If do you want know more about me you can check out my <a href=\"https://plus.google.com/u/0/+JonatanJumbert/posts\" titlte=\"Author Google+ profile\" target=\"_blank\">Google+ profile</a> or me <a href=\"http://jonatanjumbert.com?utm_source=Wordpress&utm_medium=Plugin&utm_term=WPCode%20Content%20Ratio&utm_campaign=Wordpress%20plugins\" target=\"_blank\" title=\"Author site\">personal site</a>."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:667
+msgid "Do you wanna hire me?"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:670
+msgid "Make a donation"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:674
+msgid "Do you like this plugin? Why don't contribute with a little donation?"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:675
+msgid "Make author happy and pay him something"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:683
+msgid "Pay a coffee - &dollar;1,00 USD"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:684
+msgid "Pay a beer - &dollar;2,00 USD"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:685
+msgid "Pay a snack - &dollar;3,00 USD"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:686
+msgid "Pay a drink - &dollar;5,00 USD"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:687
+msgid "Pay the cinema - &dollar;10,00 USD"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:692
+msgid "Pay a coffee - 1&euro;"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:693
+msgid "Pay a beer - 2&euro;"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:694
+msgid "Pay a snack - 3&euro;"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:695
+msgid "Pay a drink - 5&euro;"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:696
+msgid "Pay the cinema - 10&euro;"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:700
+msgid "donate_en.gif"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:700
+msgid "PayPal - The safer, easier way to pay online."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:702
+msgid "You can follow me on"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:704
+msgid "View Jonatan Jumbert's personal blog"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:705
+msgid "Follow me on my blog"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:707
+msgid "View Jonatan Jumbert's Google+ profile"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:708
+msgid "Follow me on Google+"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:710
+msgid "View Jonatan Jumbert's Linkedin profile"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:711
+msgid "Follow me on Linkedin"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:713
+msgid "View Jonatan Jumbert's Twitter profile"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:714
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:716
+msgid "View Jonatan Jumbert's Facebook profile"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:717
+msgid "Follow me on Facebook"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:764
+msgid "Options for <strong>WPCode Content Ratio</strong> saved"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:783
+msgid "All ratios for <strong>categories</strong> calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:803
+#, php-format
+msgid "Ratio for <strong>%s</strong> category calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:813
+msgid "All ratios for <strong>categories</strong> pages cleared."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:832
+msgid "All ratios for <strong>tags's</strong> page calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:852
+#, php-format
+msgid "Ratio for <strong>%s</strong> tag page calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:862
+msgid "All ratios for <strong>tags's</strong> page cleared."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:881
+#, php-format
+msgid "All ratios for <strong>%s</strong> entries calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:898
+#, php-format
+msgid "All ratios for <strong>%s</strong> entries cleared."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:911
+msgid "Code to content ratio for <strong>homepage</strong> calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:921
+msgid "All author's page ratio cleared."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:940
+msgid "All author's page ratio calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:960
+#, php-format
+msgid "Author page ratio for user <strong>%s</strong> calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:981
+#, php-format
+msgid "All terms ratio under <strong>%s</strong> taxonomy calculated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:989
+#, php-format
+msgid "All terms ratio under <strong>%s</strong> taxonomy cleared."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1012
+#, php-format
+msgid "<strong>%s</strong> term under <i>%s</i> taxonomy ratio was updated."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1131
+msgid "ratio"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1187
+msgid "You must configure <strong>WPCode Content Plugin</strong>."
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1188
+msgid "Configure"
+msgstr ""
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\wpcode-content-ratio/index.php:1189
+msgid "Let's do it!"
+msgstr ""
+
